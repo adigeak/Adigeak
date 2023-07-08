@@ -11,7 +11,7 @@
 - ☕ &nbsp; I belive, a perfect bowl of noodles can be the ultimate solution for any stress.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love quizzing and talk lot about history and future
-- 📝 Resume: (here)[https://drive.google.com/file/d/1V3ZuFdALeAODFOe8MBktmgexHOJWYaxI/view]
+- 📝 Resume: [here](https://drive.google.com/file/d/1V3ZuFdALeAODFOe8MBktmgexHOJWYaxI/view)
 
 ### 🛠 Tech Stack
 
