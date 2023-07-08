@@ -2,10 +2,10 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I’m currently learning deep learning and flutter(side hustle).
+- 🔭 &nbsp; I’m currently learning deep learning and machine vision.
 - 🤔 &nbsp; Exploring new technologies and quick hacks for fun.  
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 👯 I’m looking to collaborate on space,AI and IOT tech. 
+- 🎓 &nbsp; Studyied Computer Science, computer programming and Mathematics.
+- 👯 I’m looking to research oportunity. 
 - 🌱 &nbsp; Enthusiast in Aerospace, cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching documentaries  and trying out latest trends as hobbies/side hustles (currently in SDR).
 - ☕ &nbsp; I belive, a perfect bowl of noodles can be the ultimate solution for any stress.
